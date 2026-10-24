@@ -1,0 +1,16 @@
+# Du lieu Docker (volume)
+db_data/
+prometheus_data/
+grafana_data/
+loki_data/
+promtail_data/
+
+# Cert that sinh tai (tu tao qua openssl, khong nen commit)
+nginx/certs/*.crt
+nginx/certs/*.key
+
+# Python cache
+__pycache__/
+.pytest_cache/
+venv/
+.env
