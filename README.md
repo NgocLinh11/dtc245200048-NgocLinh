@@ -91,7 +91,7 @@ docker compose up -d
 - Website: <https://localhost> (accept the self-signed cert warning).
 - phpMyAdmin: <http://localhost:8081>
 - Grafana: <http://localhost:3000> (admin / grafana_admin_password_de_dai)
-- Prometheus: <http://localhost:9090>
+- Prometheus: <http://localhost:9091>
 
 ## 6. Cấu hình Nginx Reverse Proxy
 
